@@ -24,5 +24,7 @@ This React application replicates the UI/UX of Telegram, providing functionality
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/veerendranadhkoppula/Telegram-clone-Assignment-from-BeyondChats.git
+   git clone https://github.com/veerendranadhkoppula/Telegram-clone-Assignment-BeyondChats.git
    cd Telegram-clone-Assignment-from-BeyondChats
+   npm install
+   npm start
